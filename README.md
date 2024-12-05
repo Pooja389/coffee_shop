@@ -35,5 +35,21 @@ This Flask application allows users to add cafes to a database and view a list o
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pooja389/coffee_shop
+   git clone https://github.com/Pooja389/coffee_shop.git
    cd coffee_shop
+   ```
+2. Install required package   
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. run the flask-application
+   ```bash
+   python main.py
+   ```
+4. see webpage
+   press (ctrl + click) on http://127.0.0.1:5000 in terminal
+   
+5. License
+   This project is licensed under the MIT License.
+   
+     
